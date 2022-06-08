@@ -32,7 +32,7 @@ public class Java8StreamsApplication implements CommandLineRunner {
 
 		LOG.info("EXECUTING : command line runner");
 
-		tutorial1.run();
+//		tutorial1.run();
 
 		tutorial2.run();
 
